@@ -1,0 +1,41 @@
+_repo: The-Story-of-OpalThe-Journal-of-an-Understanding-Heart_43818
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Sedgwick, Ellery
+    birthdate: 1872
+    deathdate: 1960
+    gutenberg_agent_id: '31539'
+    url: http://www.gutenberg.org/2009/agents/31539
+covers:
+- cover_type: archival
+  image_path: 43818-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Whiteley, Opal Stanley
+    aliases:
+    - De Bourbon Orléans, Françoise Marie
+    - Bourbon Orleans, Francoise Marie de
+    - D'Orléans, Françoise
+    - Orléans, Françoise Marie de Bourbon
+    - Bourbon Orléans, Françoise Marie de
+    gutenberg_agent_id: '42425'
+    url: http://www.gutenberg.org/2009/agents/42425
+    wikipedia: https://en.wikipedia.org/wiki/Opal_Whiteley
+description: ''
+gutenberg_issued: '2013-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43818'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Whiteley, Opal Stanley -- Diaries'
+- !lcc 'PS'
+- !lcsh 'Children''s writings, American -- Oregon'
+- !lcsh 'Authors, American -- 20th century -- Diaries'
+- !lcsh 'Oregon -- Social life and customs'
+title: 'The Story of Opal: The Journal of an Understanding Heart'
+url: http://www.gutenberg.org/ebooks/43818
